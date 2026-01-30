@@ -1,4 +1,4 @@
-# :milky_way: Geometric Quantum Machine Learning for Drug Discovery
+# :milky_way: Quantum Machine Learning for Drug Discovery
 ###  A Structure-Preserving Quantum Feature Map
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
