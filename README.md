@@ -37,7 +37,7 @@ Performance comparison across IBM Quantum backends with varying shot counts (mea
 * **Mentor:** Robert Loredo
 
 
-## DFD
+## Data Flow Diagram
 
 ```mermaid
 graph TD
