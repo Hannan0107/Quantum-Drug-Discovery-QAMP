@@ -19,7 +19,7 @@ Performance comparison across IBM Quantum backends with varying shot counts (mea
 
 | Backend Device | Architecture | Accuracy (1024 Shots) | Accuracy (4096 Shots) | Performance Gain |
 | :--- | :--- | :--- | :--- | :--- |
-| **`ibm_marrakesh`** | Heron r2 (156q) | 72% | 86% | 🔼 **+14%** (Noise Mitigation) |
+| **`ibm_marrakesh`** | Heron r2 (156q) | 72% | 82% | 🔼 **+14%** (Noise Mitigation) |
 | **`ibm_torino`** | Heron r1 (133q) | 76% | 84% | 🔼 +8% |
 | **`ibm_fez`** | Heron r2 (156q) | **86%** | **88%** | 🔼 +2% (Peak Fidelity) |
 
